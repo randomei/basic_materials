@@ -1,33 +1,44 @@
 # textdomain: basic_materials
-Silicon lump=Кусок Кремния
-Simple Integrated Circuit=Микросхема
-Simple Motor=Мотор
-Heating element=Нить Накала
-Simple energy crystal=Энергетический Кристалл
+Silicon lump=Кусок кремния
+Simple Integrated Circuit=Простая микросхема
+Simple Motor=Простой мотор
+Heating element=Нить накала
+Simple energy crystal=Простой энергетический кристалл
 
-Spool of steel wire=Катушка Стальной Проволоки
-Spool of copper wire=Катушка Медной Проволоки
-Spool of silver wire=Катушка Серебрянной Проволоки
-Spool of gold wire=Катушка Золотой Проволоки
-Steel Strip=Стальная Полоса
-Copper Strip=Медная Полоса
-Steel Bar=Стальной Прут
-Chainlinks (brass)=Латунные Звенья
-Chainlinks (steel)=Стальные Звенья
-Brass Ingot=Латунный Брусок
-Steel gear=Стальная Шестерня
-Padlock=Навесной Замок
-Chain (steel, hanging)=Стальная Цепь
-Chain (brass, hanging)=Латунная Цепь
-Brass Block=Латунный Блок
+Spool of steel wire=Катушка стальной проволоки
+Spool of copper wire=Катушка медной проволоки
+Spool of silver wire=Катушка серебрянной проволоки
+Spool of gold wire=Катушка золотой проволоки
+Steel Strip=Стальная полоска
+Copper Strip=Медная полоска
+Steel Bar=Стальной прут
+Chainlinks (brass)=Латунные звенья
+Chainlinks (steel)=Стальные звенья
+Brass Ingot=Латунный слиток
+Steel gear=Стальная шестерня
+Padlock=Навесной замок
+Chain (steel, hanging)=Стальная цепь
+Chain (brass, hanging)=Латунная цепь
+Brass Block=Латунный блок
 
-Oil extract=Масляный Экстракт
-Unprocessed paraffin=Необработанный Парафин
-Uncooked Terracotta Base=Ком Мокрого Терракота
-Wet Cement=Ком Мокрого Цемента
+Oil extract=Масляный экстракт
+Unprocessed paraffin=Необработанный парафин
+Uncooked Terracotta Base=Необожженная терракота
+Wet Cement=Мокрый цемент
 Cement=Цемент
 Concrete Block=Железобетон
 
-Plastic sheet=Пластиковый Лист
-Plastic strips=Пластиковая Полоса
-Empty wire spool=Пустая Катушка
+Plastic sheet=Пластиковый лист
+Plastic strips=Пластиковая полоска
+Empty wire spool=Пустая катушка
+
+Spool of stainless steel wire=Катушка проволоки из нержавеющей стали
+Spool of aluminum wire=Катушка алюминиевой проволоки
+Lead Strip=Свинцовая полоска
+Gold Strip=Золотая полоска
+Stainless Steel Strip=Полоска из нержавеющей стали
+Aluminum Strip=Алюминиевая полоска
+Carbon Steel Bar=Прут из углеродистой стали
+Stainless Steel Bar=Прут из нержавеющей стали
+Aluminum Bar=Алюминиевый прут
+
